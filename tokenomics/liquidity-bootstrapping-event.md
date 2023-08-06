@@ -8,7 +8,7 @@ description: >-
 # Liquidity Bootstrapping Event
 
 {% hint style="warning" %}
-In line with our commitment to transparency and communication with stakeholders, we will soon release the complete specifics, key dates, and strategic timeline of to the LBE. This information will be shared in conjunction with the official launch of Rosa Finance.
+In line with our commitment to transparency and communication with stakeholders, we will soon release the complete specifics, key dates, and strategic timeline of the LBE. This information will be shared along with the official launch date of Rosa Finance.
 {% endhint %}
 
 ## **Liquidity Bootstrapping Event (LBE): A Strategic Initiative**

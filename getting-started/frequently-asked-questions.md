@@ -29,12 +29,14 @@ To ensure you're connected to Arbitrum Mainnet on your wallet, such as MetaMask,
 1. Open MetaMask and click on the network selection dropdown at the top.
 2. Select "Custom RPC" to add a new network.
 3. Fill in the Arbitrum settings:\
+   \
    **Network name:** Arbitrum One\
    **Token:** ETH\
    **RPC:** [**https://arb1.arbitrum.io/rpc**](https://arb1.arbitrum.io/rpc\*\*)\
    **Chain ID:** 42161\
    **Block explorer:** [**arbiscan.io**](https://arbiscan.io/)\
-   **Website:** [**portal.arbitrum.one**](https://portal.arbitrum.one/)
+   **Website:** [**portal.arbitrum.one**](https://portal.arbitrum.one/)\
+
 4. Click "Save" to add the network, and ensure you're connected to Arbitrum Mainnet.
 
 </details>
