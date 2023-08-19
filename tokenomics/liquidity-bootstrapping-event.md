@@ -29,9 +29,7 @@ ROSA tokens will be distributed to contributors through a linear vesting schedul
 
 ### **Liquidity Provision and Market Equilibrium Tactics**
 
-Funds accrued in USDC during the LBE shall be channeled towards liquidity provisioning for the ROSA/USDC trading pair on Chronos. This strategy highlights our commitment to early liquidity and the stability of the ROSA token. Recognizing the essential role that liquidity plays in any successful ecosystem, Rosa Finance emphasizes this important aspect.
-
-<figure><img src="../.gitbook/assets/LBEROSA (1).png" alt=""><figcaption></figcaption></figure>
+Funds accrued in USDC during the LBE shall be channeled towards liquidity provisioning for the ROSA/USDC trading pair on ~~XXX~~. This strategy highlights our commitment to early liquidity and the stability of the ROSA token. Recognizing the essential role that liquidity plays in any successful ecosystem, Rosa Finance emphasizes this important aspect.
 
 ### **Post-LBE Strategic Framework and Governance**
 
@@ -41,8 +39,8 @@ After the LBE, Liquidity Provider (LP) tokens will be securely locked within the
 
 #### **Staking Mechanisms and Incentive Alignment**
 
-LP tokens will be staked on the Chronos platform to earn CHR tokens, which will be fairly distributed to those staking their ROSA tokens. This process helps maintain a stable ecosystem, providing incentives for early liquidity providers and rewarding those who continue to support ROSA.
+LP tokens will be staked on the ~~XXX~~ platform to earn ~~XXX~~ tokens, which will be fairly distributed to those staking their ROSA tokens. This process helps maintain a stable ecosystem, providing incentives for early liquidity providers and rewarding those who continue to support ROSA.
 
 ### **Conclusion: Envisioning the Path Forward**
 
-The Liquidity Bootstrapping Event is more than just a fundraising effort; it's a strategic move in Rosa Finance's growth. It shows our dedication to early liquidity, ensures the strength of the ROSA token, and uses governance to guide future development. The opportunity to earn $CHR tokens through staking strengthens our community-driven approach, making the LBE a foundational element in Rosa Finance's ongoing progress.
+The Liquidity Bootstrapping Event is more than just a fundraising effort; it's a strategic move in Rosa Finance's growth. It shows our dedication to early liquidity, ensures the strength of the ROSA token, and uses governance to guide future development. The opportunity to earn ~~XXX~~ tokens through staking strengthens our community-driven approach, making the LBE a foundational element in Rosa Finance's ongoing progress.

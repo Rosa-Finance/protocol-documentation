@@ -46,4 +46,4 @@ In the rapidly changing landscape of decentralized finance, understanding these 
 
 ## Collateral Factors on Rosa Finance
 
-<table><thead><tr><th width="252">roToken</th><th>Collateral Factor</th></tr></thead><tbody><tr><td>ARB</td><td>65%</td></tr><tr><td>USDC</td><td>90%</td></tr><tr><td>USDT</td><td>90%</td></tr><tr><td>DAI</td><td>90%</td></tr><tr><td>wETH</td><td>75%</td></tr><tr><td>wBTC</td><td>70%</td></tr><tr><td>LUSD</td><td>60%</td></tr><tr><td>wstETH</td><td>60%</td></tr></tbody></table>
+<table><thead><tr><th width="252">roToken</th><th>Collateral Factor</th></tr></thead><tbody><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr></tbody></table>

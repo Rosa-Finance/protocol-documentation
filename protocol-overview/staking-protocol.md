@@ -9,22 +9,22 @@ description: >-
 
 ## Overview
 
-Rosa Finance introduces a robust and innovative staking infrastructure that inspires active engagement and contribution towards the protocol's expansion and stability. Stakers interact with the protocol by pledging their ROSA tokens, and in return, they accrue rewards over time in proportion to their stake. Rewards, delivered in ROSA and CHR tokens, are distributed on a weekly schedule. The protocol further extends its utility by introducing stROSA, a token that symbolizes staked ROSA in the network.
+Rosa Finance introduces a robust and innovative staking infrastructure that inspires active engagement and contribution towards the protocol's expansion and stability. Stakers interact with the protocol by pledging their ROSA tokens, and in return, they accrue rewards over time in proportion to their stake. Rewards, delivered in ROSA and ~~XXX~~ tokens, are distributed on a weekly schedule. The protocol further extends its utility by introducing stROSA, a token that symbolizes staked ROSA in the network.
 
 ## **stROSA: The Staking Derivative**
 
 Rosa Finance's dynamic staking system incorporates a mechanism for stakers to represent their staked ROSA as a staking derivative token within the system: stROSA. Users can mint (i.e., stake) or burn (i.e., unstake) these tokens, managing their holdings to align with their personal investment strategy and financial targets.
 
-## **Reward Generation: ROSA and CHR Tokens**
+## **Reward Generation: ROSA and XXX Tokens**
 
-Stakers are entitled to two types of rewards: ROSA and CHR tokens.
+Stakers are entitled to two types of rewards: ROSA and `XXX` tokens.
 
 1. Each week, a percentage of Rosa Finance's protocol earnings are converted into ROSA tokens and distributed among stakers. Generated from assets supported by Rosa Finance (e.g., DAI, WETH), this mechanism consistently fuels the demand for ROSA tokens and synchronizes the interests of stakers with the overall platform's success.
-2. Alongside ROSA tokens, stakers are also rewarded with CHR tokens. These tokens are produced as a result of Rosa Finance's strategic operations on the Chronos platform. Through a process known as "bribing", Rosa Finance promotes its ROSA/USDC liquidity pool on Chronos, thereby boosting the platform's LP revenue, which is then allocated to stakers in the form of CHR tokens.
+2. Alongside ROSA tokens, stakers are also rewarded with XXX tokens. These tokens are produced as a result of Rosa Finance's strategic operations on XXX. Through a process known as "bribing", Rosa Finance promotes its ROSA/USDC liquidity pool on XXX, thereby boosting the platform's LP revenue, which is then allocated to stakers in the form of XXX tokens.
 
 ## **Claiming Rewards**
 
-Stakers can retrieve their accumulated ROSA and CHR token rewards at their convenience through the Rosa Finance interface. It's important to note that the act of claiming rewards has no effect on the staked ROSA tokens. They remain productive, generating further rewards as long as they are staked.
+Stakers can retrieve their accumulated ROSA and XXX token rewards at their convenience through the Rosa Finance interface. It's important to note that the act of claiming rewards has no effect on the staked ROSA tokens. They remain productive, generating further rewards as long as they are staked.
 
 ## **Unstaking and Cooling-off Period**
 

@@ -4,9 +4,9 @@
 
 ## 🧭 Getting Started
 
-* [Official Links](getting-started/official-links.md)
-* [Quick User Guide](getting-started/quick-user-guide.md)
 * [Frequently Asked Questions](getting-started/frequently-asked-questions.md)
+* [Quick User Guide](getting-started/quick-user-guide.md)
+* [Official Links](getting-started/official-links.md)
 
 ## 🏦 Protocol Overview
 

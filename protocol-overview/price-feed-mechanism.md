@@ -1,7 +1,7 @@
 ---
 description: >-
   Explore how Rosa Finance harnesses the power of Chainlink's decentralized
-  oracle network to provide precise, real-time asset pricing on the Arbitrum
+  oracle network to provide precise, real-time asset pricing on the Base
   network.
 ---
 
@@ -9,7 +9,7 @@ description: >-
 
 ## Overview
 
-Rosa Finance integrates Chainlink's decentralized oracle network, enabling the provision of precise, real-time asset pricing on the Arbitrum network. This integration serves as an essential part of Rosa's lending mechanism, and in the following sections, we detail the key elements of the price feed process, its interaction with Chainlink, and the management of supported assets within the Rosa ecosystem.
+Rosa Finance integrates Chainlink's decentralized oracle network, enabling the provision of precise, real-time asset pricing on the Base network. This integration serves as an essential part of Rosa's lending mechanism, and in the following sections, we detail the key elements of the price feed process, its interaction with Chainlink, and the management of supported assets within the Rosa ecosystem.
 
 ## **Orchestrating the Price Data**
 
@@ -26,7 +26,7 @@ The combined use of these two components, stored within Rosa's oracle contract, 
 
 Each asset supported within Rosa Finance is assigned a dedicated Chainlink price feed contract.
 
-<table><thead><tr><th width="157">Price Feed</th><th>Address</th></tr></thead><tbody><tr><td><strong>ARB/USD</strong></td><td><a href="https://arbiscan.io/address/0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6">0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6</a></td></tr><tr><td><strong>USDC/USD</strong></td><td><a href="https://arbiscan.io/address/0x50834f3163758fcc1df9973b6e91f0f0f0434ad3">0x50834F3163758fcC1Df9973b6e91f0F0F0434aD3</a></td></tr><tr><td><strong>USDT/USD</strong></td><td><a href="https://arbiscan.io/address/0x3f3f5df88dc9f13eac63df89ec16ef6e7e25dde7">0x3f3f5dF88dC9F13eac63DF89EC16ef6e7E25DdE7</a></td></tr><tr><td><strong>DAI/USD</strong></td><td><a href="https://arbiscan.io/address/0xc5C8E77B397E531B8EC06BFb0048328B30E9eCfB">0xc5C8E77B397E531B8EC06BFb0048328B30E9eCfB</a></td></tr><tr><td><strong>ETH/USD</strong></td><td><a href="https://arbiscan.io/address/0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612">0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612</a></td></tr><tr><td><strong>WBTC/USD</strong></td><td><a href="https://arbiscan.io/address/0xd0C7101eACbB49F3deCcCc166d238410D6D46d57">0xd0C7101eACbB49F3deCcCc166d238410D6D46d57</a></td></tr><tr><td><strong>LUSD/USD</strong></td><td><a href="https://arbiscan.io/address/0x0411D28c94d85A36bC72Cb0f875dfA8371D8fFfF">0x0411D28c94d85A36bC72Cb0f875dfA8371D8fFfF</a></td></tr><tr><td><strong>STETH/USD</strong></td><td><a href="https://arbiscan.io/address/0x07C5b924399cc23c24a95c8743DE4006a32b7f2a">0x07C5b924399cc23c24a95c8743DE4006a32b7f2a</a></td></tr></tbody></table>
+<table><thead><tr><th width="157">Price Feed</th><th>Address</th></tr></thead><tbody><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr><tr><td><strong>TBD</strong></td><td><strong>TBD</strong></td></tr></tbody></table>
 
 ## **Real-time Price Data Retrieval & Application**
 

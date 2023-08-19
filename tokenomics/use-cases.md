@@ -16,7 +16,7 @@ Rosa Finance recognizes and rewards the commitment and trust of $ROSA holders by
 
 ### **Staking**
 
-With the introduction of stROSA, Rosa Finance's staking derivative, staking becomes an empowering and transparent process. The more you stake, the more you earn, both in ROSA and CHR tokens, aligning your interests with the long-term success of the platform. The Rosa staking mechanism is thoughtfully designed to encourage active participation, ensuring consistent rewards and fostering a sustainable and robust staking ecosystem.
+With the introduction of stROSA, Rosa Finance's staking derivative, staking becomes an empowering and transparent process. The more you stake, the more you earn, both in ROSA and XXX tokens, aligning your interests with the long-term success of the platform. The Rosa staking mechanism is thoughtfully designed to encourage active participation, ensuring consistent rewards and fostering a sustainable and robust staking ecosystem.
 
 ### **Revenue Distribution**
 
@@ -24,11 +24,11 @@ As part of the rewards, stakers receive a share of protocol revenue, encompassin
 
 ## **Strategic Engagement: Leveraging the Ecosystem**
 
-The strategic collaboration with Chronos and active participation in its bribe marketplace adds a new dimension to the $ROSA use-case. Through liquidity provisioning (LPing) on Chronos, Rosa Finance enhances liquidity and protocol profitability. This increased revenue flows back to stROSA holders, ensuring a higher reward yield and establishing a win-win partnership within the broader decentralized finance landscape.
+The strategic collaboration with XXX and active participation in its bribe marketplace adds a new dimension to the $ROSA use-case. Through liquidity provisioning (LPing) on XXX, Rosa Finance enhances liquidity and protocol profitability. This increased revenue flows back to stROSA holders, ensuring a higher reward yield and establishing a win-win partnership within the broader decentralized finance landscape.
 
 ### **Bribes: A Transparent Incentive Mechanism**
 
-Bribes on Chronos signify Rosa Finance's transparent engagement within the DeFi ecosystem. This approach not only enriches the ROSA/USDC pool but also increases the overall protocol revenue, creating an economic synergy that benefits all $ROSA holders and stakers.
+Bribes on XXX signify Rosa Finance's transparent engagement within the DeFi ecosystem. This approach not only enriches the ROSA/USDC pool but also increases the overall protocol revenue, creating an economic synergy that benefits all $ROSA holders and stakers.
 
 ## **Sustainability and Growth: A Commitment to the Future**
 
