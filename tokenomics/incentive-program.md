@@ -2,14 +2,14 @@
 description: >-
   Discover how Rosa Finance strategically allocates ROSA tokens through its
   Incentive Program to drive growth, enhance liquidity, and foster collaboration
-  with XXX on Base.
+  with XXX on Arbitrum.
 ---
 
 # Incentive Program
 
 ## **Overview**
 
-The Rosa Finance Incentive Program is a robust initiative designed to foster liquidity, engagement, and alignment within the decentralized finance ecosystem, emphasizing collaboration with XXX. Through strategic incentives for participation in both borrowing and supplying, as well as a close partnership with XXX, this program aims to drive growth and create a thriving community around Rosa Finance on the Base network.
+The Rosa Finance Incentive Program is a robust initiative designed to foster liquidity, engagement, and alignment within the decentralized finance ecosystem, emphasizing collaboration with XXX. Through strategic incentives for participation in both borrowing and supplying, as well as a close partnership with XXX, this program aims to drive growth and create a thriving community around Rosa Finance on the Arbitrum network.
 
 ## **Incentive Program Allocation**
 
@@ -63,4 +63,4 @@ Rosa Finance actively engages in XXX bribe marketplace, encouraging liquidity pr
 * **Governance**: Active participation from community members in shaping Rosa Finance's future.
 * **Sustainability**: Emphasizing long-term viability through steady emission reductions.
 
-The Rosa Finance Incentive Program embodies the commitment to a thriving community, laying the groundwork for substantial growth and development on Base. By incentivizing participation through thoughtfully structured rewards, it sets a trajectory for sustainable growth and robust engagement with the platform.
+The Rosa Finance Incentive Program embodies the commitment to a thriving community, laying the groundwork for substantial growth and development on Arbitrum. By incentivizing participation through thoughtfully structured rewards, it sets a trajectory for sustainable growth and robust engagement with the platform.

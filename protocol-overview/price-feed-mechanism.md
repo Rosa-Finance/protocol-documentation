@@ -1,7 +1,7 @@
 ---
 description: >-
   Explore how Rosa Finance harnesses the power of Chainlink's decentralized
-  oracle network to provide precise, real-time asset pricing on the Base
+  oracle network to provide precise, real-time asset pricing on the Arbitrum
   network.
 ---
 
@@ -9,7 +9,7 @@ description: >-
 
 ## Overview
 
-Rosa Finance integrates Chainlink's decentralized oracle network, enabling the provision of precise, real-time asset pricing on the Base network. This integration serves as an essential part of Rosa's lending mechanism, and in the following sections, we detail the key elements of the price feed process, its interaction with Chainlink, and the management of supported assets within the Rosa ecosystem.
+Rosa Finance integrates Chainlink's decentralized oracle network, enabling the provision of precise, real-time asset pricing on the Arbitrum network. This integration serves as an essential part of Rosa's lending mechanism, and in the following sections, we detail the key elements of the price feed process, its interaction with Chainlink, and the management of supported assets within the Rosa ecosystem.
 
 ## **Orchestrating the Price Data**
 

@@ -12,11 +12,11 @@ Follow this guide to get started with Rosa Finance and explore the array of fina
 
 #### **1. Supported Wallet**
 
-You'll need a wallet that supports Base to interact with Rosa Finance. Popular wallets like MetaMask, WalletConnect, Coinbase Wallet, or Ledger are compatible.
+You'll need a wallet that supports Arbitrum to interact with Rosa Finance. Popular wallets like MetaMask, WalletConnect, Coinbase Wallet, or Ledger are compatible.
 
-#### **2. Base Network Configuration**
+#### **2.** Arbitrum **Network Configuration**
 
-Make sure your wallet is configured to connect to the Base network. Detailed instructions can be found [**here**](frequently-asked-questions.md#how-do-i-add-arbitrum-on-my-wallet).
+Make sure your wallet is configured to connect to the Arbitrum network. Detailed instructions can be found [**here**](frequently-asked-questions.md#how-do-i-add-arbitrum-on-my-wallet).
 
 #### **3. Funding Your Wallet**
 

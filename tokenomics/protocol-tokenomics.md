@@ -16,7 +16,7 @@ The total and immutable maximum supply of $ROSA tokens is capped at 600,000. All
 
 The distribution of the total supply of $ROSA is thoughtfully allocated to drive the ecosystem's growth and stability. Here's a detailed breakdown:
 
-1. **Protocol-owned Liquidity (12% / 72,000 $ROSA):** Earmarked to enhance liquidity on partnered decentralized exchanges within the Base ecosystem. This supports fluid trading and efficient price discovery.
+1. **Protocol-owned Liquidity (12% / 72,000 $ROSA):** Earmarked to enhance liquidity on partnered decentralized exchanges within the Arbitrum ecosystem. This supports fluid trading and efficient price discovery.
 2. **Platform Rewards (27% / 162,000 $ROSA):** Allocated to incentivize user participation, these tokens will be systematically distributed over a three-year period to various staking, lending, and borrowing activities, complying with our incentive program.
 3. **Treasury (18% / 108,000 $ROSA):** Reserved for the ongoing development of the protocol. This includes, but is not limited to, funding research, development, marketing, and strategic initiatives.
 4. **Partners and Contributors (12.33% / 74,000 $ROSA):** Dedicated to rewarding ecosystem partners, collaborators, and early supporters. This allocation will be distributed in both $ROSA and the staked version, $sROSA, according to transparent and predefined agreements.

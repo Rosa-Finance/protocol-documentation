@@ -20,7 +20,7 @@ Each market has a designated APR, or supply interest rate. The Rosa Finance syst
 
 ## **roToken Management**
 
-Each roToken can be tracked on the Base network block explorer, BaseScan. Users can easily locate them within the list of tokens associated with their address.
+Each roToken can be tracked on the Arbitrum network block explorer, ArbiScan. Users can easily locate them within the list of tokens associated with their address.
 
 We advise our users to exercise prudence when transferring roTokens. Any transfer of roTokens effectively translates to the transfer of the corresponding underlying asset balance within the Rosa Finance ecosystem. A transfer from one party to another will reduce the sender's balance (as reflected on the Rosa Finance interface) and increase the receiver's balance.
 
