@@ -46,4 +46,4 @@ In the rapidly changing landscape of decentralized finance, understanding these 
 
 ## Collateral Factors on Rosa Finance
 
-<table><thead><tr><th width="252">roToken</th><th>Collateral Factor</th></tr></thead><tbody><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr><tr><td>TBD</td><td>TBD</td></tr></tbody></table>
+<table><thead><tr><th width="252">roToken</th><th>Collateral Factor</th></tr></thead><tbody><tr><td>USDC</td><td>0.85</td></tr><tr><td>DAI</td><td>0.85</td></tr><tr><td>USDT</td><td>0.85</td></tr><tr><td>ETH</td><td>0.80</td></tr><tr><td>WBTC</td><td>0.80</td></tr><tr><td>FXS</td><td>0.60</td></tr><tr><td>GMX</td><td>0.70</td></tr><tr><td>LUSD</td><td>0.70</td></tr><tr><td>ARB</td><td>0.70</td></tr><tr><td>stETH</td><td>0.75</td></tr><tr><td>FRAX</td><td>0.75</td></tr><tr><td>PENDLE</td><td>0.70</td></tr></tbody></table>
