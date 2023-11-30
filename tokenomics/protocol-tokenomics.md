@@ -23,7 +23,7 @@ The distribution of the total supply of $ROSA is thoughtfully allocated to drive
 5. **Private LBE (8.33% / 50,000 $ROSA):** Allocated at a rate of $2.70 per token to accredited investors and early backers during the Liquidity Bootstrapping Event, catalyzing initial growth.
 6. **Public LBE (20% / 120,000 $ROSA):** Made available at $3.00 per token during the public Liquidity Bootstrapping Event, promoting widespread access and participation.
 
-<figure><img src="../.gitbook/assets/graph_2_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Commitment to Transparency and Integrity**
 
