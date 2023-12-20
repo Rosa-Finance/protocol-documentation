@@ -20,8 +20,8 @@ The distribution of the total supply of $ROSA is thoughtfully allocated to drive
 2. **Platform Rewards (27% / 162,000 $ROSA):** Allocated to incentivize user participation, these tokens will be systematically distributed over a three-year period to various staking, lending, and borrowing activities, complying with our incentive program.
 3. **Treasury (18% / 108,000 $ROSA):** Reserved for the ongoing development of the protocol. This includes, but is not limited to, funding research, development, marketing, and strategic initiatives.
 4. **Partners and Contributors (12.33% / 74,000 $ROSA):** Dedicated to rewarding ecosystem partners, collaborators, and early supporters. This allocation will be distributed in both $ROSA and the staked version, $sROSA, according to transparent and predefined agreements.
-5. **Private LBE (8.33% / 50,000 $ROSA):** Allocated at a rate of $2.70 per token to accredited investors and early backers during the Liquidity Bootstrapping Event, catalyzing initial growth.
-6. **Public LBE (20% / 120,000 $ROSA):** Made available at $3.00 per token during the public Liquidity Bootstrapping Event, promoting widespread access and participation.
+5. **Private LBE (8.33% / 50,000 $ROSA):** Allocated at a rate of $0.50 per token to accredited investors and early backers during the Liquidity Bootstrapping Event, catalyzing initial growth.
+6. **Public LBE (20% / 120,000 $ROSA):** Made available at $0.83 per token during the public Liquidity Bootstrapping Event, promoting widespread access and participation.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
