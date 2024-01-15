@@ -19,7 +19,7 @@ Rosa Finance's Liquidity Bootstrapping Event (LBE) is a pivotal and strategic mi
 
 ### **Participation Architecture and Defined Event Timeline**
 
-The LBE follows a structured and transparent timeline where contributors may deposit USDC to acquire ROSA tokens at an established rate of 3 USDC per ROSA. Our method emphasizes transparency and equitable distribution. Contributions are processed in an order-agnostic fashion, thus eradicating any possibility of front-running.
+The LBE follows a structured and transparent timeline where contributors may deposit USDC to acquire ROSA tokens at an established rate of 0.83$ USDC per ROSA. Our method emphasizes transparency and equitable distribution. Contributions are processed in an order-agnostic fashion, thus eradicating any possibility of front-running.
 
 Upon every contribution, the protocol shall instantiate a tamper-proof record, with the quantity of ROSA tokens apportioned.
 
