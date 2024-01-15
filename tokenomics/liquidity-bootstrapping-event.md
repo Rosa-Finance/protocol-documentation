@@ -29,7 +29,7 @@ ROSA tokens will be distributed to contributors through a linear vesting schedul
 
 ### **Liquidity Provision and Market Equilibrium Tactics**
 
-Funds accrued in USDC during the LBE shall be channeled towards liquidity provisioning for the ROSA/USDC trading pair on ~~XXX~~. This strategy highlights our commitment to early liquidity and the stability of the ROSA token. Recognizing the essential role that liquidity plays in any successful ecosystem, Rosa Finance emphasizes this important aspect.
+Funds accrued in USDC during the LBE shall be channeled towards liquidity provisioning for the ROSA/USDC trading pair on Camelot. This strategy highlights our commitment to early liquidity and the stability of the ROSA token. Recognizing the essential role that liquidity plays in any successful ecosystem, Rosa Finance emphasizes this important aspect.
 
 ### **Post-LBE Strategic Framework and Governance**
 
