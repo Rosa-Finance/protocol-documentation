@@ -39,7 +39,7 @@ Rosa Finance's commitment to becoming the most accessible money market extends b
 Rosa Finance is an all-encompassing financial ecosystem designed to revolutionize the Arbitrum network's financial landscape. Engage with our platform to experience these core benefits:
 
 1. **Collateralization**: Use your assets as collateral securely with our fully automated, transparent processes.
-2. **Easy Access to Liquidity**: Tap into deep liquidity pools sans unnecessary tax complications, bridging your financial needs with ease.
+2. **Easy Access to Liquidity**: Tap into deep liquidity pools without unnecessary tax complications, bridging your financial needs with ease.
 3. **Leveraged Trading Strategies**: Execute sophisticated trading strategies with our robust platform and maximize your potential gains.
 4. **Unlocking Liquidity of Yield-Bearing Assets**: Unleash your assets' potential by unlocking liquidity and earning interest on a diverse range of digital assets.
 
