@@ -9,7 +9,7 @@ description: >-
 
 ## **Overview**
 
-The Rosa Finance Incentive Program is a robust initiative designed to foster liquidity, engagement, and alignment within the decentralized finance ecosystem, emphasizing collaboration with XXX. Through strategic incentives for participation in both borrowing and supplying, as well as a close partnership with XXX, this program aims to drive growth and create a thriving community around Rosa Finance on the Arbitrum network.
+The Rosa Finance Incentive Program is a robust initiative designed to foster liquidity, engagement, and alignment within the decentralized finance ecosystem. Through strategic incentives for participation in both borrowing and supplying, as well as a close partnership with Camelot, this program aims to drive growth and create a thriving community around Rosa Finance on the Arbitrum network.
 
 ## **Incentive Program Allocation**
 
@@ -49,13 +49,13 @@ Rosa Finance actively engages in XXX bribe marketplace, encouraging liquidity pr
 
 ### **Bribes**
 
-1. **Direct Participation for ROSA Holders**: : ROSA holders can engage in Liquidity Providing (LPing) on XXX, earning additional rewards and adding depth to the liquidity of the ROSA/USDC pool.
-2. **Increased Protocol Revenue and Redistribution**: Through LPing on XXX, Rosa Finance earns additional revenue paid in XXX, which is then distributed to stROSA holders, enhancing the overall protocol profitability.
+1. **Direct Participation for ROSA Holders**: : ROSA holders can engage in Liquidity Providing (LPing) on Camelot, earning additional rewards and adding depth to the liquidity of the ROSA/USDC pool.
+2. **Increased Protocol Revenue and Redistribution**: Through LPing on Camelot, Rosa Finance earns additional revenue, which is then distributed to stROSA holders, enhancing the overall protocol profitability.
 
 ### **Benefits for Rosa Finance**
 
 1. **Transparent Engagement**: Bribes are made and held in escrow until the epoch's completion, ensuring transparency.
-2. **Strategic Leveraging**: By utilizing XXX offerings, Rosa Finance stimulates liquidity and participation.
+2. **Strategic Leveraging**:  Rosa Finance stimulates liquidity and participation.
 
 ## **Program Highlights**
 
